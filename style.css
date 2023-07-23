@@ -1,0 +1,53 @@
+#p{
+margin: 0px;
+}
+    
+
+
+
+
+@font-face {
+    font-family: "vazir";
+    src: 
+     url("./fonts/vazir.ttf") format("truetype") ,
+     url("./fonts/vazir.woff2") format("woff2"); 
+    
+}
+.chanel{
+    width:42%;
+    height: 70%;
+    background-color: #2980b9;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 12px;
+    position: absolute;
+    right: 280px;
+}
+
+a{
+    color: #c0392b;
+    text-decoration: none;
+}
+.admin{
+    width:42%;
+    height: 83%;
+    background-color: #f1c40f;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 12px;
+    position: absolute;
+    bottom: 47px;
+}
+ul{
+    font-family: fantasy;
+}
+
+body{
+    font-family: "vazir";
+  background-image: url("./images/icon_background.png");
+  background-repeat: repeat;
+  background-size: 100%;
+
+}
